@@ -1,0 +1,29 @@
+[09:14:56] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[09:15:22] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[09:15:28] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[09:16:09] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[09:16:09] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[09:16:09] Prueba de logging en archivo
+[10:07:52] Logging inicializado en C:\Users\Usuario\Documents\Sanitas-Autorizacion\logs\app.log
+[10:08:27] Solicitud recibida: fechaDesde=01/02/2026, fechaHasta=01/03/2026, documento=1072645338
+[10:08:31] Iniciando consulta de reporte desde 01/02/2026 hasta 01/03/2026.
+[10:08:31] Abriendo portal de login.
+[10:08:32] Escribiendo credenciales y enviando login.
+[10:08:33] Intento de autenticacion 1: click en boton.
+[10:08:41] Login enviado. Navegando al menu Reportes.
+[10:08:42] Ingresando rango de fechas del reporte.
+[10:08:44] Generando reporte en el portal.
+[10:08:44] Esperando estado del reporte en la tabla.
+[10:08:45] Contenedor de tabla detectado en: iframe[1]
+[10:08:45] Aun no aparece fila de estado en la tabla. URL actual: https://appcore.colsanitas.com/ValidadorDerechos/pages/reportes/ReporteInstitucion.seam?cid=12492. Tabla: Prestador que practica Fecha desde Fecha hasta Tipo de reporte Estado Acción No se encontraron registros
+[10:08:46] Modal de procesamiento detectado. Confirmando aviso.
+[10:08:46] Estado actual del reporte: En proceso
+[10:08:46] El reporte sigue en proceso en td[5]. Esperando finalizacion.
+[10:08:56] El reporte sigue en proceso en td[5]. Esperando finalizacion.
+[10:09:01] Estado actual del reporte: Finalizado
+[10:09:01] Estado Finalizado detectado. El enlace de descarga ya esta disponible.
+[10:09:01] Reporte finalizado. Esperando boton de descarga.
+[10:09:01] Descargando archivo CSV.
+[10:09:05] Archivo descargado correctamente: ReporteInstitucion-24032026100851950.csv
+[10:09:05] Cerrando navegador Selenium.
+[10:09:08] Solicitud completada correctamente. Registros encontrados: 1
